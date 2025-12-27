@@ -35,19 +35,25 @@
 
 ---
 
-## 🌱 Currently learning:
+## 🌱 Currently studying:
 
+### 📱 Mobile
 <p>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+### 🖥️ Backend
+<p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
 ---
 
 ## 🤝 Let's collaborate!
-I'm always open to collaborating on interesting projects — whether it's web systems, APIs, dashboards or mobile apps.  
-Feel free to reach out and build something awesome together 🚀
+I'm always open to collaborating on interesting projects — web systems, APIs, dashboards and mobile apps.  
+Let's build something great together 🚀
 
 ---
 
@@ -59,31 +65,5 @@ Feel free to reach out and build something awesome together 🚀
 
 ---
 
-## 📫 How to reach me:
-<p>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/seulinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/seux">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## ⚡ Fun fact:
-When I'm not coding, I'm usually studying new technologies, improving my skills, or experimenting with new stacks.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&style=for-the-badge" />
-</p>
+When I'm not coding, I'm studying new technologies, building side projects and leveling up my skills.
