@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Pablo Alves</h1>
+<h1 align="center">Hi there, I'm Pablo Alves</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=Full+Stack+Developer;Vue.js+%7C+Laravel+%7C+Node.js;Always+learning+and+building" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 What I'm working on:
+## What I'm working on:
 
 ### Frontend
 <p>
