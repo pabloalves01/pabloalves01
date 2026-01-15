@@ -53,7 +53,7 @@
 
 ## Let's collaborate!
 I'm always open to collaborating on interesting projects — web systems, APIs, dashboards and mobile apps.  
-Let's build something great together 🚀
+Let's build something great together
 
 ---
 
